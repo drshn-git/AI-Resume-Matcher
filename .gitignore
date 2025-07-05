@@ -1,0 +1,23 @@
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Output files
+output/
+*.csv
+*.json
+
+# PDFs or sensitive docs
+resumes/
+*.pdf
+
+# Streamlit cache
+.streamlit/
