@@ -80,4 +80,4 @@ Results will be stored in the `output/` folder with resume match info, scores, a
 
 ## 🛡️ License
 
-MIT License (add separately if needed)
+MIT License (added)
